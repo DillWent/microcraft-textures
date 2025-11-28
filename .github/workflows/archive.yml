@@ -8,9 +8,11 @@ jobs:
   archive:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - run: zip -r myfolder.zip myfolder/
-      - uses: actions/upload-artifact@v3
+      - uses: actions/checkout@v4
+
+      - run: zip -r pack.zip microcraft/
+
+      - uses: actions/upload-artifact@v4
         with:
           name: archived-folder
-          path: myfolder.zip
+          path: pack.zip
