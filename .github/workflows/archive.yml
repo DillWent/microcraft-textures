@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - run: zip -r pack.zip microcraft/ data.json
+      - run: zip -r pack.zip assets/ pack.mcmeta
 
       - run: |
           git config user.name "github-actions"
