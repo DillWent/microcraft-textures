@@ -1,0 +1,16 @@
+name: Archive Folder
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: zip -r myfolder.zip myfolder/
+      - uses: actions/upload-artifact@v3
+        with:
+          name: archived-folder
+          path: myfolder.zip
