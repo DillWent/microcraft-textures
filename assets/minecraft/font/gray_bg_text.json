@@ -1,0 +1,31 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\ue001"
+            ],
+            "file": "minecraft:font/left_end.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\ue002"
+            ],
+            "file": "minecraft:font/right_end.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\ue000"
+            ],
+            "file": "minecraft:font/blank.png"
+        }
+    ]
+}

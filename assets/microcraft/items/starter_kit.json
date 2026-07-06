@@ -1,0 +1,7 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "microcraft:custom/starter_kit"
+    },
+	"oversized_in_gui": true
+}
