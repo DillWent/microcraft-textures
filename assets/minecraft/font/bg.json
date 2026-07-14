@@ -5,7 +5,7 @@
             "ascent": 10,
             "height": 17,
             "chars": [
-                "\ue001"
+                "{"
             ],
             "file": "minecraft:font/left_end.png"
         },
@@ -14,7 +14,7 @@
             "ascent": 10,
             "height": 17,
             "chars": [
-                "\ue002"
+                "}"
             ],
             "file": "minecraft:font/right_end.png"
         },
@@ -23,15 +23,15 @@
             "ascent": 10,
             "height": 17,
             "chars": [
-                "\ue000"
+                " "
             ],
             "file": "minecraft:font/blank.png"
         },
         {
             "type": "space",
             "advances": {
-                "\uF000": -1,
-                "\uF001": 7
+                "_": -1,
+                "\uF000": 7
             }
         },
         {
