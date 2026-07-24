@@ -1,0 +1,164 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "{"
+            ],
+            "file": "minecraft:font/left_end.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "}"
+            ],
+            "file": "minecraft:font/right_end.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                " "
+            ],
+            "file": "minecraft:font/blank.png"
+        },
+        {
+            "type": "space",
+            "advances": {
+                "_": -1,
+                "\uF000": 7
+            }
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "i"
+            ],
+            "file": "minecraft:font/i.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "k"
+            ],
+            "file": "minecraft:font/k.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "l"
+            ],
+            "file": "minecraft:font/l.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "t"
+            ],
+            "file": "minecraft:font/t.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "f"
+            ],
+            "file": "minecraft:font/f.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "abcdefghijklmnopqrstuvwxyz"
+            ],
+            "file": "minecraft:font/letter_sprites.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "I"
+            ],
+            "file": "minecraft:font/cap_i.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            ],
+            "file": "minecraft:font/cap_sprites.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "0123456789"
+            ],
+            "file": "minecraft:font/numbers.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                ":"
+            ],
+            "file": "minecraft:font/colon.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "\ue001"
+            ],
+            "file": "minecraft:font/chest_free.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "\ue002"
+            ],
+            "file": "minecraft:font/chest_time.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "\ue003"
+            ],
+            "file": "minecraft:font/chest_locked.png"
+        },
+        {
+            "type": "bitmap",
+            "ascent": 10,
+            "height": 17,
+            "chars": [
+                "\ue004"
+            ],
+            "file": "minecraft:font/chest_claimed.png"
+        }
+    ]
+}

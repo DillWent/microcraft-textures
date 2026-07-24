@@ -1,0 +1,7 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "microcraft:custom/scavenger_warden_bg"
+    },
+	"oversized_in_gui": true
+}

@@ -1,0 +1,23 @@
+{
+	"textures": {
+		"layer0": "minecraft:item/starter_kit"
+	},
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-71.5, 20.0, 0.0],
+			"scale": [4.0, 4.0, 1.0]
+		}
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 8],
+			"to": [32, 32, 8.01],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "layer0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "layer0"}
+			}
+		}
+	]
+}

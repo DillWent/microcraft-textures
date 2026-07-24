@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/yellow_book_top",
+    "east": "minecraft:block/yellow_book_side",
+    "north": "minecraft:block/yellow_book_front",
+    "particle": "minecraft:block/crafting_table_front",
+    "south": "minecraft:block/crafting_table_side",
+    "up": "minecraft:block/yellow_book_top",
+    "west": "minecraft:block/yellow_book_side"
+  }
+}

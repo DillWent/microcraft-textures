@@ -1,0 +1,64 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "ascent": 7,
+            "height": 7,
+            "file": "minecraft:font/kit.png",
+            "chars": [
+                "K"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "ascent": 7,
+            "height": 7,
+            "file": "minecraft:font/enchant.png",
+            "chars": [
+                "E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "ascent": 7,
+            "height": 7,
+            "file": "minecraft:font/unbreakable.png",
+            "chars": [
+                "U"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "ascent": 7,
+            "height": 7,
+            "file": "minecraft:font/guest.png",
+            "chars": [
+                "G"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "ascent": 7,
+            "height": 7,
+            "file": "minecraft:font/member.png",
+            "chars": [
+                "M"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "ascent": 7,
+            "height": 7,
+            "file": "minecraft:font/admin.png",
+            "chars": [
+                "A"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                " ": 2
+            }
+        }
+    ]
+}
