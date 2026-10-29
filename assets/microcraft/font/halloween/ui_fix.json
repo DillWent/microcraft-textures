@@ -1,0 +1,28 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "custom_uis:custom_ui/plain_54.png",
+            "ascent": 13,
+            "chars": [
+                "\ue001"
+            ],
+            "height": 221
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_uis:custom_ui/plain_27.png",
+            "ascent": 13,
+            "chars": [
+                "\ue002"
+            ],
+            "height": 167
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\uf001": -6
+            }
+        }
+    ]
+}
