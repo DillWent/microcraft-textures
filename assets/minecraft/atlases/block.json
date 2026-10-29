@@ -4,6 +4,16 @@
       "type": "directory",
       "source": "microcraft:custom",
       "prefix": "microcraft:custom"
+    },
+
+
+    {
+        "type": "single",
+        "resource": "microcraft:ui/halloween/checkmark"
+    },
+    {
+        "type": "single",
+        "resource": "microcraft:ui/halloween/pumpkin_item"
     }
   ]
 }

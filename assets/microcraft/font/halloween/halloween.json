@@ -1,0 +1,46 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "microcraft:ui/halloween/bossbar.png",
+            "chars": ["\ue000"],
+            "height": 27,
+            "ascent": 10
+        },
+        {
+            "type": "bitmap",
+            "file": "microcraft:ui/halloween/claim.png",
+            "chars": ["\ue001"],
+            "height": 68,
+            "width": 140,
+            "ascent": 3
+        },
+        {
+            "type": "bitmap",
+            "file": "microcraft:ui/halloween/shop.png",
+            "chars": ["\ue002"],
+            "height": 208,
+            "width": 140,
+            "ascent": 4
+        },
+        {
+            "type": "bitmap",
+            "file": "microcraft:ui/halloween/bossbar_progress.png",
+            "chars": ["\ue003\ue004"],
+            "height": 14,
+            "ascent": 7,
+            "width": 1
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\uf000": -73,
+                "\uf001": -1,
+                "\uf002": 1,
+                "\uf003": -148,
+                "\uf004": -72,
+                "\uf005": 10
+            }
+        }
+    ]
+}
