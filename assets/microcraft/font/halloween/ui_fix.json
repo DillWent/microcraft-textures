@@ -2,16 +2,14 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "microcraft:halloween/plain_54.png",
-            "ascent": 13,
-            "chars": [
-                "\ue001"
-            ],
-            "height": 221
+            "file": "microcraft:ui/halloween/plain_54.png",
+            "chars": ["\ue001"],
+            "height": 221,
+            "ascent": 13
         },
         {
             "type": "bitmap",
-            "file": "microcraft:halloween/plain_27.png",
+            "file": "microcraft:ui/halloween/plain_27.png",
             "ascent": 13,
             "chars": [
                 "\ue002"
