@@ -15,7 +15,8 @@
 				"west": {"uv": [0, 2, 16, 2], "texture": "#0"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"down": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#0"}
-			}
+			},
+			"light_emission": 15
 		}
 	],
 	"display": {
