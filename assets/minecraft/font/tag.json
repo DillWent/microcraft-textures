@@ -64,6 +64,15 @@
             ]
         },
         {
+            "type": "bitmap",
+            "ascent": 7,
+            "height": 7,
+            "file": "minecraft:font/new_og.png",
+            "chars": [
+                "O"
+            ]
+        },
+        {
             "type": "space",
             "advances": {
                 " ": 2
